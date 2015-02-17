@@ -1,0 +1,11 @@
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/classes/debug
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-c16c52deca9c619dc36a5c5c7ae7ac17ab6fc758.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/httpmime-4.3.4-e0bd4470be3ecbf11d70a664e95ac2a4050cf069.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/unity-classes-ac07964f4e4bcc4fe39d71356fc2e9855e9580fa.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-d6ab2a75466cf6ac2a62ff0d248097aa8cf5f32c.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-fdfa76f8b2ec999e9915c37053d542d995935c74.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/httpcore-4.3.2-dcd7c932078ef475a52c24bf1834585916e19135.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/httpclient-4.3.4-ab87b0728696fe24c51062e68a71f653419de8c8.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/classes-ea6a41b94bfc2ee2119130280f2e9f4513677ea8.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/classes-fb875ccd6e3cac11cd339815b3b117905faf428a.jar
+/Users/albert/Documents/unity_stuff/android_export/7testing_datasend_tounity_tutorial/app/build/intermediates/pre-dexed/debug/classes-f856fb2af30d47ab8c6f02526959155aea9ee3d6.jar
